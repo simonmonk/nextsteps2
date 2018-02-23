@@ -1,4 +1,4 @@
-// sketch_06_EEPROM_example
+// sketch_07_EEPROM_example
 
 #include <EEPROM.h>
 

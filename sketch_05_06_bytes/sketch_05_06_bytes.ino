@@ -1,4 +1,4 @@
-// sketch_04_06_bytes
+// sketch_05_06_bytes
 
 byte outPin = 10;
 byte state = 0;

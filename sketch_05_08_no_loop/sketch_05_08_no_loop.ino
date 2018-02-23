@@ -1,4 +1,4 @@
-// sketch_04_08_no_loop
+// sketch_05_08_no_loop
 
 const byte outPin = 10;
 byte state = 0;

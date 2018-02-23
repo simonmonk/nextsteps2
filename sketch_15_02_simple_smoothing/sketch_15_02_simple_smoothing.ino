@@ -1,4 +1,4 @@
-// sketch_13_02_simple_smoothing
+// sketch_15_02_simple_smoothing
 const int samplePin = A1;
 const float alpha = 0.9;
 

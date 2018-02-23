@@ -1,4 +1,4 @@
-// sketch_06_02_static
+// sketch_07_04_static
 
 int array[100];
 

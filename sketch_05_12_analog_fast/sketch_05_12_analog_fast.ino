@@ -1,4 +1,4 @@
-// sketch 04_11_analog
+// sketch 05_11_analog_fast
 
 const byte PS_128 = (1 << ADPS2) | (1 << ADPS1) | (1 << ADPS0);
 const byte PS_16 = (1 << ADPS2);

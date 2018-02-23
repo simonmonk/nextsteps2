@@ -1,4 +1,4 @@
-// sketch_06_07_avr_eeprom_int
+// sketch_07_07_avr_eeprom_int
 
 #include <avr/eeprom.h>
 

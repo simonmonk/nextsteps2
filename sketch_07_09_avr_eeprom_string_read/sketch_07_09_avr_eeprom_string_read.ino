@@ -1,4 +1,4 @@
-// sketch_06_07_avr_eeprom_string_read
+// sketch_07_07_avr_eeprom_string_read
 
 #include <avr/eeprom.h>
 

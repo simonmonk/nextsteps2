@@ -1,4 +1,4 @@
-// sketch_05_03_blink_standard
+// sketch_06_03_blink_standard
 
 void setup() 
 {

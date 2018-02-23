@@ -1,4 +1,4 @@
-// sketch 03_01_interrupts
+// sketch 04_01_interrupts
 
 int ledPin = 13;
 

@@ -1,4 +1,4 @@
-// sketch_06_10_PROGMEM_array
+// sketch_07_10_PROGMEM_array
 
 #include <avr/pgmspace.h>
 

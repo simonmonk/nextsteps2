@@ -1,4 +1,4 @@
-// sketch_14_02_flashing_2
+// sketch_16_02_flashing_2
 
 const int ledPin = 13;
 const int switchPin = 5;

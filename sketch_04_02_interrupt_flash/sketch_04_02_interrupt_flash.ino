@@ -1,4 +1,4 @@
-// sketch 03_02_interrupt_flash
+// sketch 04_02_interrupt_flash
 
 int ledPin = 13;
 volatile boolean flashFast = false;

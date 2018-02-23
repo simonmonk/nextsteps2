@@ -1,4 +1,4 @@
-// sketch_13_06_FFT_Spectrum
+// sketch_15_06_FFT_Spectrum
 
 #include "fix_fft.h"
 

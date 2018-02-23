@@ -1,4 +1,4 @@
-// sketch_05_01_prescale
+// sketch_06_01_prescale
 
 #include <Prescaler.h>
 

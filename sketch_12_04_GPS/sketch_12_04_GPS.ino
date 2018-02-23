@@ -1,3 +1,5 @@
+// sketch_12_04_GPS
+
 #include <SoftwareSerial.h>
 
 SoftwareSerial gpsSerial(10, 11); // RX, TX (TX not used)

@@ -1,4 +1,4 @@
-// sketch_13_01_averaging
+// sketch_15_01_averaging
 
 const int samplePin = A1;
 

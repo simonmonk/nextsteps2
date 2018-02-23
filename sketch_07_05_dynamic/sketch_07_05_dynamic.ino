@@ -1,4 +1,4 @@
-// sketch_06_03_dynamic
+// sketch_07_05_dynamic
 
 int *array;
 

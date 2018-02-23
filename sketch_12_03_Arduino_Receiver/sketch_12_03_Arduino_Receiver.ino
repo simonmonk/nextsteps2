@@ -1,4 +1,4 @@
-// sketch_10_03_Adruino_Receiver
+// sketch_12_03_Adruino_Receiver
 
 #include "SoftwareSerial.h"
 

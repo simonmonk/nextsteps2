@@ -1,4 +1,4 @@
-// sketch_04_07_const
+// sketch_05_07_const
 
 const byte outPin = 10;
 byte state = 0;

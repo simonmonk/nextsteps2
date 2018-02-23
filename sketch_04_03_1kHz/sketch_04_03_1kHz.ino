@@ -1,4 +1,4 @@
-// sketch_03_03_1kHz
+// sketch_04_03_1kHz
 
 #include <TimerOne.h>
 

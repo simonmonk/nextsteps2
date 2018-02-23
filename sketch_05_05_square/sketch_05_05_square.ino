@@ -1,4 +1,4 @@
-// sketch_04_05_square
+// sketch_05_05_square
 
 int outPin = 10;
 int state = 0;

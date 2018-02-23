@@ -1,4 +1,4 @@
-// sketch_05_06_sleep_external_wake
+// sketch_06_06_sleep_external_wake
 #include <avr/sleep.h>
 
 const int ledPin = 13;

@@ -1,4 +1,4 @@
-// sketch_05_02_powering_off
+// sketch_06_02_powering_off
 
 #include <avr/power.h>
 

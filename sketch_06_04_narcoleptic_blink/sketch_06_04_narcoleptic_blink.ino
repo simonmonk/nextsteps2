@@ -1,4 +1,4 @@
-// sketch_05_04_narcoleptic_blink
+// sketch_06_04_narcoleptic_blink
 #include <Narcoleptic.h>
 
 void setup() 

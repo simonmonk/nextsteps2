@@ -1,4 +1,4 @@
-// sketch_03_04_pwm
+// sketch_04_04_pwm
 
 #include <TimerOne.h>
 

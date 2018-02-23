@@ -1,4 +1,4 @@
-// sketch_05_05_narcoleptic_input
+// sketch_06_05_narcoleptic_input
 #include <Narcoleptic.h>
 
 const int ledPin = 13;

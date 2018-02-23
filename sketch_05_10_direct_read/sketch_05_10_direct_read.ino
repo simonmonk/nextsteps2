@@ -1,4 +1,4 @@
-// sketch_04_010_direct_read
+// sketch_05_10_direct_read
 
 byte state = 0;
 

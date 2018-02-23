@@ -1,4 +1,4 @@
-// TEA5767 Example
+// sketch_17_01_TEA5767
 
 #include <Wire.h>
 #include <TEA5767Radio.h>

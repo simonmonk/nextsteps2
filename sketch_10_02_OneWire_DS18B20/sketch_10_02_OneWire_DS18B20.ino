@@ -1,4 +1,4 @@
-// sketch_08_02_OneWire_DS18B20
+// sketch_10_02_OneWire_DS18B20
 
 #include <OneWire.h>
 #include <DallasTemperature.h>

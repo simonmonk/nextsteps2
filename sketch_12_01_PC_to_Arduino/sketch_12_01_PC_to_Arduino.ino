@@ -1,4 +1,4 @@
-// sketch_10_01_PC_to_Arduino
+// sketch_12_01_PC_to_Arduino
 
 const int readingPin = A0;
 

@@ -1,4 +1,4 @@
-// sketch_11_04_host_scroll_lock
+// sketch_13_04_host_scroll_lock
 
 // This sketch is based on the LCDlbd example sketch from the USB_Host_Shield library
 

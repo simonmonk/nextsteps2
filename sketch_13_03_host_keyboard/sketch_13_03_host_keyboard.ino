@@ -1,4 +1,4 @@
-// sketch_11_03_host_keyboard
+// sketch_13_03_host_keyboard
 
 // This sketch is based on the LCDlbd example sketch from the USB_Host_Shield library
 

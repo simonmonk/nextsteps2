@@ -1,4 +1,4 @@
-// sketch_-4_05_sin_print
+// sketch_05_05_sin_print
 
 float angle = 0.0;
 float angleStep = PI / 32.0;

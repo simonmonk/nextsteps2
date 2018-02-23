@@ -1,4 +1,4 @@
-// sketch_06_02_factorial
+// sketch_07_02_factorial
 
 void setup()
 {
