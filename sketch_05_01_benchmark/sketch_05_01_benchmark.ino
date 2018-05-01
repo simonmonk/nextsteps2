@@ -17,11 +17,12 @@ void setup()
   }
   // end of test code
   long endTime = millis();
+  float seconds = float(endTime - startTime) / 1000.0;
   
   Serial.println(j); // prevent loop being optimized out
   Serial.println("Finished Test");
   Serial.print("Seconds taken: "); 
-  Serial.println((endTime - startTime) / 1000l);
+  Serial.println(seconds);
 }
 
 void loop()

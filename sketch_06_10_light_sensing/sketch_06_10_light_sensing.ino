@@ -1,4 +1,4 @@
-// sketch_06_07_light_sensing
+// sketch_06_10_light_sensing
 
 const int inputPin = A0;
 const int powerPin = 12;

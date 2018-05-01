@@ -3,8 +3,8 @@
 #include <SPI.h>
 #include <WiFi.h>
 
-char ssid[] = "My network name";  // your network SSID (name) 
-char pass[] = "mypassword";     // your network password
+char ssid[] = "";  // your network SSID (name) 
+char pass[] = "";     // your network password
 
 WiFiServer server(80);
 WiFiClient client;

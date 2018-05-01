@@ -1,0 +1,21 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+
+// do a web request to get the latest temp from dweet
+function get_temp() {
+	$.get( "https://dweet.io/get/latest/dweet/for/next_steps_temp", show_temp, "json")
+}
+
+// callback to set the HTML element to display the temp
+function show_temp(response) {
+	temp = response.with[0].content.temp
+	$('#temp_tag').text(temp)
+}
+
+setInterval(get_temp, 5000);
+</script>
+
+<html><body>
+<h1>Temperature</h1>
+<h1 id="temp_tag">--</h1>
+</body></html>

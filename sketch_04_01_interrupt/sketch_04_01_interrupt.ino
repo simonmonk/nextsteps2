@@ -1,6 +1,6 @@
 // sketch 04_01_interrupts
 
-int ledPin = 13;
+const int ledPin = 13;
 
 void setup()
 {
